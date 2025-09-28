@@ -1,6 +1,6 @@
 # Mémoire professionnel Dimitri BEZIAU
 
-Ce Repository sert a partager les différentes étapes de la rédaction de mon mémoire:
+Ce Repository sert a partager les différentes étapes de rédaction de mon mémoire:
 
 ## I. Travaux Préparatoires
 
