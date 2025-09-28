@@ -23,4 +23,4 @@ Je passerai par différentes etapes d'analyse :
 - *Pour quel type de modification facturer le client ?*
 - *Comment mesurer la rentabilité d'un projet ?*
 
-L'objectif sera de répondre à la problématique principale, et de fournir de outils concrets de cadrage et de pilotage adaptés à des petites structures telles que Loxys avec des KPI pour mesurer les bénéfices de ses actions.
+L'objectif sera de répondre à la problématique principale, et de fournir des outils concrets de cadrage et de pilotage adaptés à des petites structures telles que Loxys avec des KPI pour mesurer les bénéfices de ses actions.
